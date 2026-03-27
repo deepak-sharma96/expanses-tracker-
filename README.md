@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepak-sharma96&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-sharma96&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak Sharma&theme=tokyonight" />
 </p>
 
 ---
@@ -37,8 +37,15 @@
 
 ## 📫 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/deepak-sharma96"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:deepak.sharma.techni@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/deepak-sharma96">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:deepak.sharma.techni@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://instagram.com/deep.sharma.123">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---
